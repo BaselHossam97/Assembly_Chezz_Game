@@ -196,7 +196,7 @@ MainMenu PROC FAR
     update_notification2:
     GoToXY 0, notificationline
     DisplayString ChatReceive
-    DisplayString name1
+    DisplayString name2
     inc notificationline
 
     jmp send
@@ -218,7 +218,7 @@ MainMenu PROC FAR
     update_notification3:
     GoToXY 0, notificationline
     DisplayString ChessReceive
-    DisplayString name1
+    DisplayString name2
     inc notificationline
 
     jmp send
