@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Project Description](#Project)
-* [Required Software](#Required)
+* [Project Description](#Project-Description)
+* [Required Software](#Required-Software)
 * [Usage](#Usage)
 * [Gameplay](#Gameplay)
 * [References](#References)
