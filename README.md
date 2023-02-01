@@ -31,7 +31,7 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 4. Change the path highlighted at the end of the file to the path at which the project was downloaded.
 5. Run DOSBox and press enter until the game starts. Wait for player 2 to run the game.
 
-<div align="center"><img src="/media/player2.gif" alt="Player 2 Steps" width="500px"></div>
+<div align="center"><img src="/media/player1.gif" alt="Player 1 Steps" width="500px"></div>
 
 ### Player 2 
 
@@ -44,7 +44,7 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 7. Change the path highlighted at the end of the file to the path at which the project was downloaded.
 8. Run DOSBox and press enter until the game starts.
 
-<div align="center"><img src="/media/chezz.gif" alt="game logo" width="250px"></div>
+<div align="center"><img src="/media/player2.gif" alt="Player 2 Steps" width="500px"></div>
 
 # Gameplay
 
