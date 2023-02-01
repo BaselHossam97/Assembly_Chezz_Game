@@ -29,7 +29,7 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 2. Enter Network Credentials and store them for later.
 3. Open "*DOSBox 0.74-3 Options.bat*".
 4. Change the path highlighted at the end of the file to the path at which the project was downloaded.
-5. Run DOSBox and press enter until the game starts. Wait for player 2 to run the game
+5. Run DOSBox and press enter until the game starts. Wait for player 2 to run the game.
 
 <div align="center"><img src="/media/player1.gif" alt="Player 1 Steps" width="500px"></div>
 
