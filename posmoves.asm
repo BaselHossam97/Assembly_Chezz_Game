@@ -936,7 +936,7 @@ check PROC FAR
     mov cl,name2Size+1
     add di,cx
 
-    printCheck:
+    printCheck:                             ;displaying the notification
     lea si,kingCheck
     mov cx,20
     REP MOVSB
