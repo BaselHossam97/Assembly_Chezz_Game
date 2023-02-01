@@ -1,4 +1,4 @@
-# Assembly Chezz Game
+<div align="center"><img src="/media/chezz.png" alt="game logo"></div>
 
 ## Table of Contents
 
