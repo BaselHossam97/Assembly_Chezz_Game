@@ -20,6 +20,7 @@ EXTRN name2Size:BYTE
 EXTRN notification:BYTE
 EXTRN oppositeColour:BYTE
 EXTRN playerSent:BYTE
+
 PUBLIC redPawn,rook,bishop,king,horse,Pawn,check
 .Model Small
 .386
@@ -889,7 +890,7 @@ check PROC FAR
     cmp byte ptr GameBoard[BX][DI],'Q'
     jz kingIsInDanger
 
-    jmp endCheck
+    jmp endCheck                            ;clearing the notification bar and creating the notification
 
     kingIsInDanger:
     mov dh, 29
@@ -935,7 +936,7 @@ check PROC FAR
     mov cl,name2Size+1
     add di,cx
 
-    printCheck:
+    printCheck:                             ;displaying the notification
     lea si,kingCheck
     mov cx,20
     REP MOVSB
