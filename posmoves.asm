@@ -980,7 +980,6 @@ horse PROC FAR
     mov ax,selectedY
     mov Y,ax
     call convertToArray
-    ;call convertToLoc               ;Y * (16) in BX and X * (2) in DI
 
     mov cx,0
     mov ax,Y
