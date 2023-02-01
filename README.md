@@ -64,4 +64,4 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 
 Project Document: [MP_Project_DescriptionA_Fall_2022.pdf](https://github.com/MahmoudSamy1452/Assembly-chess-game/files/10551974/MP_Project_DescriptionA_Fall_2022.pdf)
 
-...
+
