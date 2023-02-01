@@ -6,6 +6,7 @@
 * [Required Software](#Required-Software)
 * [Usage](#Usage)
 * [Gameplay](#Gameplay)
+* [Notes](#Notes)
 * [References](#References)
 
 <div align="center"><img src="/media/chezz.gif" alt="game logo" width="250px"></div>
@@ -43,7 +44,7 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 7. Change the path highlighted at the end of the file to the path at which the project was downloaded.
 8. Run DOSBox and press enter until the game starts.
 
-<div align="center"><img src="/media/chezz.gif" alt="game logo" width="250px"></div>
+<div align="center"><img src="/media/player2.gif" alt="Player 2 Steps" width="500px"></div>
 
 # Gameplay
 
@@ -54,6 +55,10 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 ### Game 2
 
 <div align="center"><img src="/media/gameplay2.gif" alt="Gameplay 2" width="700px"></div>
+
+# Notes
+
+- In the rare event of a bug occuring, it may be caused be latency in connection so just reload the game.
 
 # References
 
