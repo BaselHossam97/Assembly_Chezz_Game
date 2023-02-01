@@ -58,7 +58,7 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 
 # Notes
 
-- In the rare event of a bug occuring, it may be caused be latency in connection so just reload the game.
+- In the rare event of a bug occuring, it may be caused by latency in connection so just reload the game.
 
 # References
 
