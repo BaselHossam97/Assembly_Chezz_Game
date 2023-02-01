@@ -1,14 +1,26 @@
 # Assembly Chezz Game
 
+## Table of Contents
+
+* [Project Description](#Project_Description)
+* [Required Software](#Required_Software)
+* [Usage](#Usage)
+* [Gameplay](#Gameplay)
+* [References](#References)
+
 <div align="center"><img src="/media/chezz.gif" alt="game logo" width="250px"></div>
 
-## Required Software
+# Project Description
+
+Chezz is like any standard chess, each piece moves exactly like standard chess. The main difference is that there are no turns, which means one player can move multiple pieces while the other player didn't move any pieces. There is a 3 second countdown for each piece to be moved again. A bonus item will appear randomly on the board. Any player can pick up the item by moving a piece to the tile having the bonus. The item reduces the countdown timer from 3 seconds to 2 seconds for all the pieces of the player who picked up the item.
+
+# Required Software
 
 - DOSBox (included in Repo)
 - masm.exe & link.exe (included in Repo)
 - [Hamachi](https://vpn.net/)
 
-## Steps
+# Usage
 
 ### Player 1
 
@@ -37,8 +49,6 @@
 
 <div align="center"><img src="/media/chezz.gif" alt="game logo" width="250px"></div>
 
-# Rules
+# References
 
-Chezz is like any standard chess, each piece moves exactly like standard chess. The main difference is that there are no turns, which means one player can move multiple pieces while the other player didn't move any pieces. There is a 3 second countdown for each piece to be moved again. A bonus item will appear randomly on the board. Any player can pick up the item by moving a piece to the tile having the bonus. The item reduces the countdown timer from 3 seconds to 2 seconds for all the pieces of the player who picked up the item.
-
-
+Project Document: [MP_Project_DescriptionA_Fall_2022.pdf](https://github.com/MahmoudSamy1452/Assembly-chess-game/files/10551974/MP_Project_DescriptionA_Fall_2022.pdf)
