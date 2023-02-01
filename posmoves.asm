@@ -890,7 +890,7 @@ check PROC FAR
     cmp byte ptr GameBoard[BX][DI],'Q'
     jz kingIsInDanger
 
-    jmp endCheck
+    jmp endCheck                            ;clearing the notification bar and creating the notification
 
     kingIsInDanger:
     mov dh, 29
