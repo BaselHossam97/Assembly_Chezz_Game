@@ -20,6 +20,7 @@ EXTRN name2Size:BYTE
 EXTRN notification:BYTE
 EXTRN oppositeColour:BYTE
 EXTRN playerSent:BYTE
+
 PUBLIC redPawn,rook,bishop,king,horse,Pawn,check
 .Model Small
 .386
