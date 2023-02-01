@@ -47,7 +47,13 @@ Chezz is like any standard chess, each piece moves exactly like standard chess. 
 
 # Gameplay
 
-<div align="center"><img src="/media/chezz.gif" alt="game logo" width="250px"></div>
+### Game 1
+
+<div align="center"><img src="/media/gameplay1.gif" alt="Gameplay 1" width="700px"></div>
+
+### Game 2
+
+<div align="center"><img src="/media/gameplay2.gif" alt="Gameplay 2" width="700px"></div>
 
 # References
 
